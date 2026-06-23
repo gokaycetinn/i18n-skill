@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 React TypeScript i18next Localization Skill
+# React TypeScript i18next Localization Skill
 
 ### A production-ready AI agent skill for adding clean English/Turkish localization to React + TypeScript apps.
 
@@ -16,7 +16,7 @@ Turn hardcoded English UI text into a scalable, maintainable, type-friendly `i18
 
 <br />
 
-[⭐ Star this repo](#-support-the-project) · [🚀 Quick Start](#-quick-start) · [📁 Structure](#-recommended-project-structure) · [🧠 Agent Prompt](#-recommended-agent-prompt)
+· [🚀 Quick Start](#-quick-start) · [📁 Structure](#-recommended-project-structure) · [🧠 Agent Prompt](#-recommended-agent-prompt)
 
 </div>
 
